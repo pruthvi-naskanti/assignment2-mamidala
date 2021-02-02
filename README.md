@@ -15,6 +15,16 @@
 * serve it in the plate
 
 **[aboutme](AboutMe.md)**
+---
+# places to visit
+I am going to describe the places i have visited
+| location | number of hours | amount of money |
+| :---: | :---: | :---: |
+| delhi | 20 | 200$ |
+| chennai | 5 | 500$ |
+| kerala | 40 | 800$ |
+| hyderabad | 6 | 50$ |
+
 
 
    
