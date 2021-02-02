@@ -11,5 +11,7 @@
    2. one table spoon garam masala
    3. half tea spoon salt
 
+* one table spoon lemon juice
+* serve it in the plate
 
    
