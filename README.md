@@ -13,6 +13,9 @@
 
 * one table spoon lemon juice
 * serve it in the plate
+![biryani](images/biryani.jpg)
+
+----------------------------------------------
 
 **[aboutme](AboutMe.md)**
 ---
@@ -24,6 +27,7 @@ I am going to describe the places i have visited
 | chennai | 5 | 500$ |
 | kerala | 40 | 800$ |
 | hyderabad | 6 | 50$ |
+
 
 ![delhi](images/delhi.jpg)
 ![chennai](images/chennai.jpg)
