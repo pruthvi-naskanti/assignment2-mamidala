@@ -1,7 +1,7 @@
 # assignment2-mamidala
 # SRI SATHYA MAMIDALA
 ###### chicken biryani
-> It is the famous **hyderabadi** recipe and it tastes so good with different kind of **spices** the richness of hyderabadi biryani is due to its unique cooking style
+ It is the famous **hyderabadi** recipe and it tastes so good with different kind of **spices** the richness of hyderabadi biryani is due to its unique cooking style
 ***
 # ITS MY FAVORITE DISH
 1. By parboiling the rice, the Biryani can be steamed instead of boiled. 
@@ -24,6 +24,11 @@ I am going to describe the places i have visited
 | chennai | 5 | 500$ |
 | kerala | 40 | 800$ |
 | hyderabad | 6 | 50$ |
+
+![delhi](images/delhi.jpg)
+![chennai](images/chennai.jpg)
+![hyderabad](images/hyderabad.jpg)
+![kerala](images/kerala.jpg)
 
 ***
 # Pithy Quotes
